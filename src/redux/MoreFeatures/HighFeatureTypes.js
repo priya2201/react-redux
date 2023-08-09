@@ -1,0 +1,1 @@
+export const HIGH_FEATURE='HIGH_FEATURE'
